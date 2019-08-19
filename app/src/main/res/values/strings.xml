@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="top_txt">SIMPLE CALCULATOR</string>
+    <string name="bottom_txt">App By AlonBenDov</string>
+    <string name="btn_add">Add 1</string>
+    <string name="btn_subtract">Subtract 1</string>
+</resources>

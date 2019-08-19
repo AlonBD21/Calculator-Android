@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sTxt">#323232</color>
+
+    <color name="numTxt">#323232</color>
+    <color name="numPressed">#e9e9e9</color>
+    <color name="numBtn">#b5fff4</color>
+
+    <color name="actTxt">#ffffff</color>
+    <color name="actPressed">#323232</color>
+    <color name="actBtn">#ff6700</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="hl">#f7f26f</color>
+</resources>

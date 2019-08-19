@@ -1,0 +1,35 @@
+<resources>
+<!--Button Base-->
+    <style name="Button">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:gravity">center</item>
+    </style>
+<!--Buttons-->
+    <style name="actBtn" parent="Button">
+        <item name="android:background">@drawable/background_act</item>
+        <item name="android:textColor">@color/actTxt</item>
+    </style>
+    <style name="numBtn" parent="Button">
+        <item name="android:background">@drawable/background_num</item>
+        <item name="android:textColor">@color/numTxt</item>
+    </style>
+    <style name="specialBtn" parent="Button">
+    </style>
+
+
+
+<!--TextView-->
+    <style name="s">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/sTxt</item>
+        <item name="android:background">@drawable/background_s</item>
+        <item name="android:padding">25dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+</resources>
